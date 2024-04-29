@@ -23,7 +23,7 @@
     "yup": "^1.4.0"
   },
   "scripts": {
-    "json": "json-server src/services/api/dotlib.json -s ./api/public",
+    "api": "json-server src/services/api/dotlib.json -s ./api/public",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
